@@ -7,3 +7,6 @@ CookieChecker Roblox is a utility for checking the cookies of Roblox accounts, w
  Для тех, у кого возникли проблемы с проверкой файлов cookie и появилась ошибка, отключите свой VPN. Если это не помогло, переместите папку "curl" на диск C и повторите попытку.
 
 ![Uploading Снимок экрана 2026-01-04 230057.jpg…]()
+
+
+ss: https://www.youtube.com/watch?v=H52g8GA1Sf4
